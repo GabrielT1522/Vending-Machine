@@ -1,0 +1,82 @@
+{
+  "files": {
+    "VendingMachine.cpp": [
+      {
+        "id": "ecbfbee3-4bea-44ac-b722-f3beff60451d",
+        "line": 2,
+        "version": 1522,
+        "index": 20
+      },
+      {
+        "id": "99b9a071-523a-4df0-9725-c0972444423d",
+        "line": 3,
+        "version": 1522,
+        "index": 38
+      },
+      {
+        "id": "2028bc20-bccb-4d1d-b3e9-06bc04015093",
+        "line": 34,
+        "version": 1522,
+        "index": 719
+      },
+      {
+        "id": "998bfd06-a305-4da0-af10-67a406a5ebb4",
+        "line": 105,
+        "version": 1522,
+        "index": 2500
+      }
+    ],
+    "VendingMachine.h": [
+      {
+        "id": "196160bf-1061-412d-8812-2cd71bdff27f",
+        "line": 16,
+        "version": 748,
+        "index": 356
+      },
+      {
+        "id": "33fa46fa-d3ee-42f4-8913-37b2dfb061e2",
+        "line": 24,
+        "version": 748,
+        "index": 489
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "726a3c98-23b3-49cc-8e54-e777d7f4f124",
+        "line": 9,
+        "version": 1519,
+        "index": 164
+      },
+      {
+        "id": "366ace4d-3607-4dd4-8ad3-09ec7e44945e",
+        "line": 12,
+        "version": 1519,
+        "index": 250
+      },
+      {
+        "id": "8f26fcce-711e-4be0-9449-498515ebf734",
+        "line": 12,
+        "version": 1519,
+        "index": 250
+      },
+      {
+        "id": "c49d349b-c929-40ff-9101-a5119f1b9d77",
+        "line": 15,
+        "version": 1519,
+        "index": 264
+      },
+      {
+        "id": "2b61f8de-d272-48f6-b746-a235536121eb",
+        "line": 70,
+        "version": 1519,
+        "index": 1557
+      },
+      {
+        "id": "965d6664-f01e-4058-9834-847e6519ca8b",
+        "line": 72,
+        "version": 1519,
+        "index": 1571
+      }
+    ]
+  }
+}
